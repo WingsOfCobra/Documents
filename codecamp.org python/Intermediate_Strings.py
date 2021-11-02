@@ -7,4 +7,4 @@ print(s[6:20]) #even if the variable s doesn't have that much Index-Numbers, Pyt
 
 print(s[:8]) #from beginning to 8
 print(s[6:]) #from 6 to end
-print(s[:]) #from beginning to end
+print(s[:]) #from beginning to end 
