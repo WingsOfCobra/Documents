@@ -2,9 +2,9 @@
 
 def settingscommand(): #defines a function with the name settingscommand()
 
-    user_input = input() #Just a variable
-    
     print("\nIf you want to see your account informations, type 'settings'")
+
+    user_input = input(">") #Just a variable
 
     if user_input == "settings": #checks if the user_input is equal to settings
         print("\nHere is your account information:\n\nUsername: " + username + "\nPassword: " + password)
