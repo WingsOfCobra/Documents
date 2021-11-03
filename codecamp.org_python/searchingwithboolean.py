@@ -1,4 +1,4 @@
-searched_value = 69 #the value that we search for
+searched_value = 4 #the value that we search for
 equal = False #base boolean value
 has_been_found = False #shows if the searched value has been found
 
