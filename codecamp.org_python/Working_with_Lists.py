@@ -18,7 +18,7 @@ print("After", stuff)
 
 some = [1,213,54,2,1,5,12]
 print(9 in some)
-print(9 not in some)
+print(9 not in some) #guten morgen
 
 friends = ["Zeh", "Florian", "Anian"]
 friends.sort() #sorts the friends list
