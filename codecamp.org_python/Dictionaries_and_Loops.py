@@ -6,7 +6,7 @@ words = line.split() #splits every word in the line of text that we entered
 print("Words: ", words) #Its gonna print every Word in a list of the line of text that we entered
 
 print("Counting...")
-for word in words: #for every word in the list of words
+for word in words: #for every word in the list of words 
     counts[word] = counts.get(word, 0) + 1 #the counts of the word gets 1 bigger
 print("Counts", counts)
 
